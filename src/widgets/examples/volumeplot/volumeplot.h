@@ -4,6 +4,7 @@
  * (c) Sintegrial Technologies 2013-2014
  *             http://www.sintegrial.com
  ************************************************************/
+#pragma once
 
 #include "qwt3d/qwt3d_volumeplot.h"
 
